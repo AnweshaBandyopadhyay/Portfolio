@@ -43,7 +43,7 @@ export default function Hero() {
           href="#projects"
           className="px-6 py-3 rounded-full bg-gradient-to-r from-purple-500 to-indigo-500 hover:opacity-90 transition"
         >
-          View My Work
+          Download Resume
         </a>
 
         <a

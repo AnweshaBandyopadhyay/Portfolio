@@ -12,7 +12,7 @@ export default function About() {
 
         {/* LEFT SIDE */}
         <div>
-          <h2 className="text-4xl font-bold mb-6">
+           <h2 className="text-5xl md:text-[4rem] font-black uppercase leading-none tracking-tighter opacity-70 select-none  mb-16">
             About Me
           </h2>
 

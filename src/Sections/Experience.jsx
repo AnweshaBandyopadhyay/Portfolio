@@ -7,9 +7,11 @@ export default function Experience() {
       <div className="max-w-5xl mx-auto w-full">
 
         {/* Title */}
-        <h2 className="text-4xl font-bold text-center mb-16">
-          Experience
-        </h2>
+        {/* Artistic Vertical Header */}
+        
+<h2 className="text-5xl md:text-[4rem] font-black uppercase leading-none tracking-tighter opacity-70 select-none text-center mb-16">
+            Experience
+          </h2>
 
         <div className="relative border-l border-slate-700 pl-10">
 

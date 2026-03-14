@@ -15,7 +15,7 @@ export default function Skills() {
     >
       <div className="max-w-4xl mx-auto w-full">
 
-        <h2 className="text-4xl font-bold mb-12 text-center">
+<h2 className="text-5xl md:text-[4rem] font-black uppercase leading-none tracking-tighter opacity-70 select-none  text-center mb-16">
           Tech Stack
         </h2>
 
